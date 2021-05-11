@@ -10,5 +10,5 @@ Linkedin post link : https://www.linkedin.com/posts/muhliscm_git-github-crash-co
 Day2: Data analysis using excel
 
 Project: Soccer players value analysis
-day1
-Linkedin post link : https://www.linkedin.com/posts/muhliscm_soccer-players-values-and-their-statistics-activity-6797898419353583616-e6Gx
+<br> day1
+<br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_soccer-players-values-and-their-statistics-activity-6797898419353583616-e6Gx
