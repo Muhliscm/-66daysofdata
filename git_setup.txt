@@ -1,0 +1,45 @@
+important commands
+-----------------
+mdir = create new directory
+ls -la : get information of all files
+cd "directory name" : change directory
+
+git config --global user.name "name"
+git config --global user.email "email"
+
+git clone git_repo_address.git : clone with repository
+
+git add . : add all files to staging
+git add *.html : add any files with html extension
+
+git commit : commit all files
+git commit -m "comment"
+
+git status : check status of files in staging area
+git rm --cached "filename"
+git diff : find changes
+
+ctrl + c : out from command
+clear : clear prompt
+
+touch :add files
+touch .gitignore : add git ignore file
+add file name or folder to .gitignore to ignore from staging
+
+git branch "branch name" : create new branch
+git checkout "branch name" : switch / swtitch back to specified branch
+git merge "branchname" : merge branch
+git reset --merge : reset merge
+
+
+git remote add origin <url>
+git push origin main
+git pull origin master 
+
+
+Vim editor
+---------
+I - editing mode
+esc - exit editting mode
+:wq - exit vim editor
+:wq! - exit vim editor if in read only mode 
