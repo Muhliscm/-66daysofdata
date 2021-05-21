@@ -14,8 +14,14 @@ Project: Soccer players value analysis
 <br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_soccer-players-values-and-their-statistics-activity-6797898419353583616-e6Gx
 
 
-Day3 to day 6: Data analysis using excel
+Day3 to day 8: Data analysis using excel
 
 Project: Soccer players value analysis
 <br> day6
 <br> Linkedin post link :https://www.linkedin.com/posts/muhliscm_day3-day8-66daysofdata-activity-6800704506020671488-gHRQ
+
+Day9: webscrapping
+
+Project: Scrapping different fifacountry codes from wikipedia
+<br> day1
+<br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_list-of-fifa-country-codes-wikipedia-activity-6801158133067726848-4rVL
