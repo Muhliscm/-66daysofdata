@@ -23,5 +23,16 @@ Project: Soccer players value analysis
 Day9: webscrapping
 
 Project: Scrapping different fifacountry codes from wikipedia
-<br> day1
 <br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_list-of-fifa-country-codes-wikipedia-activity-6801158133067726848-4rVL
+
+Day10: ETL project 1
+
+Project: Bank Customer Demo
+<br> day1
+<br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_day10-66daysofdata-day1-activity-6801544556090404864-qcWS
+
+Day9: ETL project 1
+
+Project: Bank Customer Demo
+<br> day2
+<br> Linkedin post link :https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6801898540617596929-beH9
