@@ -36,3 +36,11 @@ Day 11: ETL project 1
 Project: Bank Customer Demo
 <br> day2
 <br> Linkedin post link :https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6801898540617596929-beH9
+
+
+
+Day 12: ETL project 2
+
+Project: Fake Names
+<br> day1
+<br> Linkedin post link :https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6802254253206441984-f4JM
