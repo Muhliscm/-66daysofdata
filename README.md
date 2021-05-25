@@ -51,3 +51,10 @@ Day 12: ETL project 2
 Project: Fake Names
 <br> day 2
 <br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_day13-66daysofdata-day2-activity-6802595549817262080--c1v
+
+
+Day 13: ETL project 2
+
+Project: Fake Names
+<br> day 3
+<br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6803056233902428160-iqer
