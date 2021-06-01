@@ -58,3 +58,16 @@ Day 14: ETL project 2
 Project: Fake Names
 <br> day 3
 <br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6803056233902428160-iqer
+
+
+Day 15 to 16: 
+
+Learned SQL Basics
+
+Day 17: Python project 1
+
+Project: Kaggle House price predictions
+<br> day 1
+<br> Linkedin post link : https://www.linkedin.com/posts/muhliscm_muhliscm66daysofdata-activity-6804691720912158720-Itc8
+
+
