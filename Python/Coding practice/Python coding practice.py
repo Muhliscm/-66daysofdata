@@ -1,14 +1,13 @@
 
-temp = float(input("Enter temperature\n"))
+n = 5
 
-print("Choose unit c or  f")
-unit = input("Enter unit\n")
+for i in range(n):
+    for j in range(i):
+        print("*", end = ' ')
+    print()
 
-if unit == "c" or unit == "C":
-    converted = (temp * 9/5) + 32
-    print("Temperature in farenhet : ", converted)
-elif unit == "F" or unit == "f":
-    converted = (temp - 32) * (5/9)
-    print("Temperature in degree celcious : ", converted)
-else:
-    print("unknown unit")
+for i in range(n, 0, -1):
+    for j in range(i):
+        print("*", end = ' ')
+    print()
+    
